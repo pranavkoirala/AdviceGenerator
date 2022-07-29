@@ -40,7 +40,8 @@ Mobile: ![image](https://user-images.githubusercontent.com/110214889/181683636-0
 ## My process
 
 I started with the square in the middle and did the button first along with the javascript for the button before the css. After I had the button
-down the css was pretty simple but I had some problem with text shrinking too much in the mobile version and I found a workaround for that.
+down the css was pretty simple but I had some problem with text shrinking too much in the mobile version so eventually I just gave up trying to 
+make a mobile specific version and the desktop version actually seemed to work just fine shrinked down.
 
 ### Continued development
 
