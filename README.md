@@ -34,8 +34,8 @@ Mobile: ![image](https://user-images.githubusercontent.com/110214889/181683636-0
 
 ### Links
 
-- Solution URL: (https://github.com/pranavkoirala/AdviceGenerator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Page](https://github.com/pranavkoirala/AdviceGenerator)
+- Live Site URL: [Vercel](https://advice-generator-8qsy92z4g-pranavkoirala.vercel.app/)
 
 ## My process
 
