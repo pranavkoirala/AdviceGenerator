@@ -1,0 +1,83 @@
+body {
+    background-color: #1f2632;
+}
+
+.main__center {
+    height: 332px;
+    width: 540px;
+    background: #313a49;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    border-radius: 15px;
+}
+
+.advice__text {
+    font-size: 1rem;
+    position: absolute;
+    color: #52ffa8;
+    left: 40%;
+    top: 45px;
+    transform: translate(-20%, 0);
+    font-weight: bold;
+    font-family: "Nunito", sans-serif;
+}
+.advice__number {
+    font-size: 1rem;
+    position: absolute;
+    color: #52ffa8;
+    left: 54%;
+    top: 45px;
+    transform: translate(0, 0);
+    font-weight: bold;
+    font-family: "Nunito", sans-serif;
+}
+.quote {
+    color: #cfe4e9;
+    font-size: 28px;
+    font-family: 'Manrope', sans-serif;
+    width: 470px;
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -58%);
+    text-align: center;
+    max-height: 177px;
+}
+.divider {
+    position: relative;
+    top: 250px;
+    left: 48px;
+    pointer-events: none;
+}
+
+.get__quote {
+    position: absolute;
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+    border: none;
+    background-color: #53ffab;
+    top: 300px;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.dice {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    border: none;
+    top: 320px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    z-index: 1;
+    pointer-events: none;
+}
+
+.get__quote:hover {
+    box-shadow: 0 0 40px #53ffab;
+    cursor: pointer;
+}
